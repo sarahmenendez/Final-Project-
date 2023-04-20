@@ -4,7 +4,7 @@ Team name:
 Team members names and email addresses: 
 Jade Shaibani- jas857@pitt.edu
 Geina Shaker - ges84@pitt.edu
-Sarah Menendez - 
+Sarah Menendez - shm238@pitt.edu
 
 which individual analysis notebooks belong to which team members: 
 
